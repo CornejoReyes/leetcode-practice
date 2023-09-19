@@ -21,4 +21,4 @@ Each folder is named as the title of the problem described in LeetCode. Inside, 
 
 ### Acknowledgements
 
-Big thanks to my mentor, the person who inspired me to practice and develop my abilities, the person who said I'm a good engineer, [Heber Garza](https://github.com/heberuriegas)
+Big thanks to my mentor, the person who inspired me to practice and develop my abilities, the person who said I'm a good engineer, [Heber Uriegas](https://github.com/heberuriegas)
