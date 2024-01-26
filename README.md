@@ -17,7 +17,7 @@ Solutions posted in this repo are not the best, optimal or the only posible solu
 
 So don't expect the solutions to be awesome, top 1%, etc. Remember that most of the time is just me practicing, not competing.
 
-Each folder is named as the title of the problem described in LeetCode. Inside, you will find a `description.md` file, where the problem is well defined, a `solution` file, which contain the code to solve the problem, mainly in TypeScript, but other langs are also used, and probably a `pdf` file with my thought process, drawings, diagrams, schemas and all the things I did for solving the problem in paper.
+Each folder is named as the title of the problem described in LeetCode. Inside, you will find a `README.md` file, where the problem is well defined, a `solution` file, which contain the code to solve the problem, mainly in TypeScript, but other langs are also used, and probably a `pdf` file with my thought process, drawings, diagrams, schemas and all the things I did for solving the problem in paper.
 
 ### Acknowledgements
 
