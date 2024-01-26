@@ -34,3 +34,9 @@ Output: -1
 All values of nums are unique.
 nums is an ascending array that is possibly rotated.
 -104 <= target <= 104
+
+## Solution evidence
+
+The solution beats 92.61% of TypeScript users
+
+[![image.png](https://i.postimg.cc/MHk6LfpH/image.png)](https://postimg.cc/2bwNb6vN)
