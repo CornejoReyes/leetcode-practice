@@ -27,3 +27,9 @@ Output: 2
 The number of nodes in the tree is in the range `[0, 104]`.
 
 `-100 <= Node.val <= 100`
+
+## Solution
+
+This solution beats 59.76% of Typescript users.
+
+[![image.png](https://i.postimg.cc/R00D8xcf/image.png)](https://postimg.cc/YvJRGVDq)
